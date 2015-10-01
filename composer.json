@@ -15,6 +15,5 @@
         "psr-4": {
             "Thinmy\\CachedEloquentUser\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
